@@ -2,7 +2,7 @@
 -🔭 I’m currently working at [Tvast](https://www.tvast.in/) as an Intern
 - 🔭 I’m currently working on Android development 
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: LinkedIn or Mail to [Gopal](gopigopala05vkbrg@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gopala-krishna-v-9693b022b/)
 <!--
 **Gopala05/Gopala05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
