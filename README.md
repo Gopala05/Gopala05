@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>- 🔭 I’m currently working at [Tvast](https://www.tvast.in/) as an Intern<br>- 🔭 I’m currently working on Android development <br>- 🌱 I’m currently learning Flutter<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gopala-krishna-v-9693b022b/)
+Hi there 👋<br>- 🔭 I’m currently working at [Tvast](https://www.tvast.in/) as an Intern<br>- 🔭 I’m currently working on Android development <br>- 🌱 I’m currently learning Flutter<br>
 
 
 ## 🌐 Socials:
