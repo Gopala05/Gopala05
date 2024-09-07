@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hi there 👋<br>- 🔭 I’m currently working at Quinx Innovations Pvt. Ltd. as a Web Developer.<br>- 🔭 I’m currently working at [Tvast](https://www.tvast.in/) as a Junior Software Developer.<br>- 🔭 I’m currently working on Web3 and DevOps. <br>- 🌱 I’m currently learning Solidity and NextJS. <br>
+Hi there 👋<br>- 🔭 I’m currently working at Quinx Innovations Pvt. Ltd. as a Web Developer.<br>- 🔭 I’m currently working at [Tvast](https://www.tvast.in/) as a Junior Software Developer.<br>- 🔭 I’m currently working on Web Development with NextJs. <br>- 🌱 I’m currently learning Solidity and NextJS. <br>
 
 # 🌐 Socials:
 <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/call__me__gk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-v-9693b022b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GOPALA05) <br>
