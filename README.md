@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me
 Hi there 👋
 This is GK
 <br>- 🔭 I’m currently working at CelStream as a Project Trainee.
