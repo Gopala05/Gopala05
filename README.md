@@ -3,7 +3,7 @@ This is GK
 # 💫 About Myself:
 
 <br>- 🔭 I’m currently working at CelStream/Avid as a Project Trainee.
-<!--<br>- 🔭 I’m currently working on Web Development with NextJs. <br>- 🌱 I’m currently working with NextJs. <br>
+<br>- 🔭 I’m currently working on Private Technology. <!--<br>- 🌱 I’m currently working with NextJs. <br>
 -->
 
 # 🌐 Socials:
